@@ -43,10 +43,27 @@ Same content for all Users like Restaurant, Business.
 ## Dynamic Website
 Different for all user different content like Instagram, youtube
 
-## Foundation
+## Foundation What we are learn in this Course
 - Html
 - CSS
 - JavaScript
 - Tailwind & Bootstrap
-- Git & Github
+- Git & Github Basic
+- React
+- Advance Github Profesional
+- Node Js
+- Express js
+- Next js
+- DataBass
+- Aws
+- Docker
+- ci/ cd
+- websocket
+
+## Code X
+- Resume making
+- Website & Job Apply
+- Link
+- Email
+- Discussion 
 

@@ -55,7 +55,22 @@ Machine/ Device address --> Ip
 ## Domain (DNS) Domain name System
 Google.com -- 192.178.193.139
 
+## IPV4 & IPV6 Internet Protocol
 
+## IPV4  (Internet Protocol Version 4) 32 Bit
+ 
+Format -  X.X.X.X
+
+ X = 0-255
+
+ eg: 3.4.5.7 
+
+ See Your ipAddress by Cmd Ipconfig
+
+ ## IPV6 (Internet Protocol Version 6) 128 Bit
+Format-   _ : _ : _ : _ : _ : _ : _   , HexaDeciaml
+
+Eg: 2401:4900:1c20:abcd:0000:0000:0000:1a2b
 
 
 
