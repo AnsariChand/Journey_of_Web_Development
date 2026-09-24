@@ -1,0 +1,7 @@
+.wrapper {
+  background-image: url(https://picsum.photos/200/300);
+  height: 1500px;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+}
