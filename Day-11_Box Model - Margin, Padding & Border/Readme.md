@@ -10,6 +10,10 @@
 
 ---
 
+### 1. What is the CSS Box Model?
+
+**Ans:** CSS Box Model ek fundamental concept hai jo explain karta hai ki browser kisi html element ki size, spacing aur boundaries ko kaise calculate karta hai.
+
 ### Background Color
 
 ```
@@ -106,3 +110,31 @@ margin: auto;
 
 
 ```
+
+**Related Concepts**
+What Should you know before Box Model?
+HTML Elements -->
+Css Slectors -->
+Css Properties -->
+Width & Height -->
+Css Box Model -->
+
+---
+
+After Box Model?
+
+Box Model -->
+Display -->
+Block vs Inline -->
+Position -->
+Flexbox -->
+Css Grid -->
+Responsive Design -->
+
+**Commonly Confused**
+Padding --> Inside Space
+Margin --> Outside Space
+Border --> Boundary around element
+Outline --> Visual line Outside box
+Width --> Content width by default
+box-sizing --> Controls width/ Height Calculation
